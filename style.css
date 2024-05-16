@@ -50,7 +50,7 @@ section {
 }
 
 section.main {
-    background-image: url("me.jpg");
+    background-image: url("./img/me.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 950px 0 100px;
